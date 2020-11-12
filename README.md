@@ -1,6 +1,6 @@
 # twittersocialcircles
 
-This project contains data originally sourced from: **[SNAP](https://snap.stanford.edu/data/ego-Twitter.html**
+This project contains data originally sourced from: **[SNAP](https://snap.stanford.edu/data/ego-Twitter.html)**
 
 Citation: J. McAuley and J. Leskovec. Learning to Discover Social Circles in Ego Networks. NIPS, 2012.
 
